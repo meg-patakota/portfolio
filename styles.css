@@ -1,0 +1,8 @@
+body{
+    margin: 0px;
+    font-family: "Montserrat";
+    background: rgb(221, 246, 250);
+    background-image: url("/Users/megpatakota/Desktop/portfolio/imgs/background.jpg");
+    background-size: 100%;
+    text-align: center;
+}
