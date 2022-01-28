@@ -2,9 +2,15 @@ body{
     margin: 0px;
     font-family: "Montserrat";
     background: rgb(221, 246, 250);
-    background-image: url("/background.jpg");
+    /* background-image: url("/background.jpg"); */
     background-size: 100%;
     margin: 0;
     background: rgb(221, 246, 250);
     text-align: center;
+}
+
+.main_background{
+    padding:1em;
+    background:rgb(221, 246, 250)("background.jpg") no center center;
+    background-size:cover;
 }
