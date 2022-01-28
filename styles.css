@@ -1,13 +1,10 @@
 body{
-<<<<<<< HEAD
     margin: 0px;
     font-family: "Montserrat";
     background: rgb(221, 246, 250);
-    background-image: url("/Users/megpatakota/Desktop/portfolio/imgs/background.jpg");
+    background-image: url("/background.jpg");
     background-size: 100%;
-=======
     margin: 0;
     background: rgb(221, 246, 250);
->>>>>>> 0e1b051681f7363bf979260520804f1f1f0a02a4
     text-align: center;
 }
